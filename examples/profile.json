@@ -1,0 +1,56 @@
+{
+    "PlayerProfile": [
+        {
+            "PlayerBio": [
+                {
+                    "Person_ID": 951,
+                    "Birthdate": "July 20, 1975",
+                    "Age": 38,
+                    "School": "University of Connecticut",
+                    "Height": "6-5",
+                    "Weight": "205",
+                    "LastSeason": "2012",
+                    "FirstSeason": "1996",
+                    "Rookie_Year": 1996,
+                    "Season_Exp": 16,
+                    "DraftTeam": "MIN",
+                    "DraftPick": "5",
+                    "DraftRound": "1",
+                    "DraftYear": "1996"
+                }
+            ]
+        },
+        {
+            "PlayerTeamSeasons": [
+                {
+                    "TeamId": 1610612749,
+                    "City": "Milwaukee",
+                    "Nickname": "Bucks",
+                    "SeasonStart": 1996,
+                    "SeasonEnd": 2002
+                },
+                {
+                    "TeamId": 1610612760,
+                    "City": "Seattle",
+                    "Nickname": "SuperSonics",
+                    "SeasonStart": 2002,
+                    "SeasonEnd": 2006
+                },
+                {
+                    "TeamId": 1610612738,
+                    "City": "Boston",
+                    "Nickname": "Celtics",
+                    "SeasonStart": 2007,
+                    "SeasonEnd": 2012
+                },
+                {
+                    "TeamId": 1610612748,
+                    "City": "Miami",
+                    "Nickname": "Heat",
+                    "SeasonStart": 2012,
+                    "SeasonEnd": 2012
+                }
+            ]
+        }
+    ]
+}
